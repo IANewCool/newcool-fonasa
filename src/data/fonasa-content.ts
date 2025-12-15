@@ -17,8 +17,7 @@ export const FONASA_INFO = {
   mission: 'Financiar las prestaciones de salud de sus beneficiarios, asegurando acceso oportuno y de calidad.',
   description: 'Seguro publico de salud que cubre al 80% de la poblacion chilena, financiando atenciones medicas, hospitalizaciones y medicamentos.',
   slogan: 'Tu salud, nuestro compromiso',
-  director: 'Camilo Cid Pedraza',
-  tesorero: 'Camilo Cid Pedraza'
+  director: 'Camilo Cid Pedraza'
 };
 
 // Tramos FONASA 2024
