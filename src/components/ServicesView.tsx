@@ -120,7 +120,7 @@ export default function ServicesView() {
       {/* CTA */}
       <section className="text-center py-4">
         <a
-          href="https://www.fonasa.cl"
+          href="https://fonasa.gob.cl"
           target="_blank"
           rel="noopener noreferrer"
           className="btn btn-primary"

@@ -6,13 +6,13 @@ export const FONASA_INFO = {
   sigla: 'FONASA',
   fundacion: 1979,
   dependencia: 'Ministerio de Salud',
-  sitioWeb: 'https://www.fonasa.cl',
+  sitioWeb: 'https://fonasa.gob.cl',
   mision: 'Asegurar el acceso a salud de calidad para todos los beneficiarios del sistema publico.',
   vision: 'Ser el seguro publico de salud lider en proteccion y satisfaccion de sus beneficiarios.',
   fullName: 'Fondo Nacional de Salud',
   shortName: 'FONASA',
   icon: '🏥',
-  website: 'https://www.fonasa.cl',
+  website: 'https://fonasa.gob.cl',
   foundedYear: 1979,
   mission: 'Financiar las prestaciones de salud de sus beneficiarios, asegurando acceso oportuno y de calidad.',
   description: 'Seguro publico de salud que cubre al 80% de la poblacion chilena, financiando atenciones medicas, hospitalizaciones y medicamentos.',
@@ -194,7 +194,7 @@ export const FONASA_SERVICES = [
       'Autenticate con ClaveUnica',
       'Visualiza tu tramo y cargas'
     ],
-    url: 'https://www.fonasa.cl',
+    url: 'https://fonasa.gob.cl',
     online: true
   },
   {
@@ -209,7 +209,7 @@ export const FONASA_SERVICES = [
       'Selecciona el bono',
       'Paga con tarjeta o cuenta bancaria'
     ],
-    url: 'https://www.fonasa.cl/sites/fonasa/compra-bono',
+    url: 'https://fonasa.gob.cl/sites/fonasa/compra-bono',
     online: true
   },
   {
@@ -224,7 +224,7 @@ export const FONASA_SERVICES = [
       'Consulta estado en fonasa.cl',
       'Recibe pago del subsidio'
     ],
-    url: 'https://www.fonasa.cl',
+    url: 'https://fonasa.gob.cl',
     online: true
   },
   {
@@ -239,7 +239,7 @@ export const FONASA_SERVICES = [
       'Activa garantia en establecimiento',
       'Recibe atencion en plazos garantizados'
     ],
-    url: 'https://www.fonasa.cl',
+    url: 'https://fonasa.gob.cl',
     online: true
   },
   {
@@ -254,7 +254,7 @@ export const FONASA_SERVICES = [
       'Descarga o muestra desde tu celular',
       'Presenta en centros de atencion'
     ],
-    url: 'https://www.fonasa.cl',
+    url: 'https://fonasa.gob.cl',
     online: true
   },
   {
@@ -269,7 +269,7 @@ export const FONASA_SERVICES = [
       'Solicita la devolucion',
       'Recibe deposito en tu cuenta'
     ],
-    url: 'https://www.fonasa.cl',
+    url: 'https://fonasa.gob.cl',
     online: true
   }
 ];
@@ -531,7 +531,7 @@ export const CHANNELS = [
     name: 'Sitio Web',
     icon: '🌐',
     description: 'Portal de tramites y consultas online',
-    contact: 'www.fonasa.cl',
+    contact: 'fonasa.gob.cl',
     hours: '24/7'
   },
   {

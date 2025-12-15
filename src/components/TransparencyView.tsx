@@ -70,7 +70,7 @@ export default function TransparencyView() {
         </p>
         <div className="flex flex-wrap justify-center gap-3">
           <a
-            href="https://www.fonasa.cl"
+            href="https://fonasa.gob.cl"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-secondary"
